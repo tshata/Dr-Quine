@@ -1,0 +1,1 @@
+A quine program, or quine, is a program that outputs its own source code when run. A quine is not allowed to "step outside itself" by, for example, printing out the contents of the file in which it is contained or using introspective capabilities to print its own representation. Instead, it must compute its own source code.
